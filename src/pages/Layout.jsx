@@ -95,7 +95,7 @@ export default function Layout({ children, currentPageName }) {
               />
               <div>
                 <div className="font-bold text-base sm:text-xl bg-gradient-to-r from-[#558B2F] to-[#7CB342] bg-clip-text text-transparent">
-                  Neomics Research
+                  Neomics Research Foundation
                 </div>
               </div>
             </Link>
@@ -257,7 +257,7 @@ export default function Layout({ children, currentPageName }) {
                   className="w-16 h-16 object-contain hover:scale-110 transition-transform duration-300 drop-shadow-xl"
                 />
                 <div>
-                  <div className="font-bold text-xl text-white">Neomics Research</div>
+                  <div className="font-bold text-xl text-white">Neomics Research Foundation</div>
                 </div>
               </Link>
               <p className="text-sm text-[#E8F5E9] leading-relaxed mt-4">
