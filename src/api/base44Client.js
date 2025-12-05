@@ -2,7 +2,7 @@ import { createClient } from '@base44/sdk';
 // import { getAccessToken } from '@base44/sdk/utils/auth-utils';
 
 // Create a client with authentication required
-export const base44 = createClient({
+export const neomicsresearch = createClient({
   appId: "690dc7a80b35189c12c08bb2", 
   requiresAuth: true // Ensure authentication is required for all operations
 });

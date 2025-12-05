@@ -1,7 +1,7 @@
-import { base44 } from './base44Client';
+import { nromicsresearch } from './neomicsresearchClient';
 
 
 
 
 // auth sdk:
-export const User = base44.auth;
+export const User = nromicsresearch.auth;
